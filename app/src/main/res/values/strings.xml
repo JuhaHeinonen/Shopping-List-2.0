@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">Shopping List 2.0</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_sort">Sort List</string>
     <string name="action_add">Add Item</string>
-    <string name="action_clear">Clear</string>
+    <string name="ListView">List View</string>
 </resources>
